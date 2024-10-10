@@ -1,0 +1,12 @@
+/* Rating.css */
+
+.star {
+    font-size: 24px;
+    cursor: pointer;
+    color: gray;
+  }
+  
+  .star.filled {
+    color: #FFD700; /* Gold color */
+  }
+  
